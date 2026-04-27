@@ -57,9 +57,9 @@ End
 ```
 
 ## UML Class Diagram
-
+<img width="393" height="226" alt="image" src="https://github.com/user-attachments/assets/3476092f-f0e6-4f3e-a6ea-050b24bd4833" />
 
 ## Use Case Diagram
-
+<img width="529" height="798" alt="image" src="https://github.com/user-attachments/assets/3e6e0760-ec17-41cc-8865-db949c22ad15" />
 
 ## Program Execution Evidence
